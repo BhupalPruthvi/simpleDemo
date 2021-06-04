@@ -1,0 +1,8 @@
+git init
+rm -rf .git
+rm <file_name>
+git add -A 				#adds all the files to the staging area
+git reset <file_name> 	#removes from the staging area
+git reset 				#removes all
+git status
+git log
